@@ -48,9 +48,6 @@ cmake-build-*/
 .builds
 *.pidb
 *.scc
-*.dll
-*.exe
-
 # Visual C++ cache files
 ipch/
 *.aps
