@@ -1,5 +1,9 @@
 # **Repositório baseado no otclient original**.
 
+# ==============**Importante**=====================
+ - Você precisará incluir os arquivos .spr e .dat na pasta da versão, em /data/things.
+      - Exemplo: /data/things/860/ -> tibia 8.60
+
 # OTCLient - Redemption
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![Discord Shield](https://discordapp.com/api/guilds/888062548082061433/widget.png?style=shield)](https://discord.gg/HZN8yJJSyC)
